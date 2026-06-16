@@ -1,8 +1,8 @@
-Rule-Based AI Chatbot This is my first AI internship project developed using Python.
+# Rule-Based AI Chatbot This is my first AI internship project developed using Python.
 
 This project is a simple "Rule-Based AI Chatbot" developed using "Python" as part of my first AI internship project at "Decode Labs". The chatbot responds to predefined user inputs using a dictionary-based approach and demonstrates the basic working of conversational AI systems.
 
-📌 Features
+# 📌 Features
 
 👋 Greeting responses
 
@@ -16,70 +16,70 @@ This project is a simple "Rule-Based AI Chatbot" developed using "Python" as par
 
 ⚡ Fast text-based interaction
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python
 
-🚀 How It Works
+# 🚀 How It Works
 
-User enters a message
+- User enters a message
 
-Chatbot checks the predefined responses
+- Chatbot checks the predefined responses
 
-Matching response is displayed
+- Matching response is displayed
 
-Conversation continues until user exits
+- Conversation continues until user exits
 
-📂 Project Structure
+# 📂 Project Structure
 
-rule-based-ai-chatbot/ │ ├── chatbot.py └── README.md
+- rule-based-ai-chatbot/ │ ├── chatbot.py └── README.md
 
-▶️ How to Run
+# ▶️ How to Run
 
-Install Python
+- Install Python
 
-Clone this repository
+- Clone this repository
 
-git clone https://github.com/Janusha-prog/rule-based-ai-chatbot.git
+- git clone https://github.com/Janusha-prog/rule-based-ai-chatbot.git
 
-Run the Python file python chatbot.py
+- Run the Python file python chatbot.py
 
-💡 Sample Inputs
+# 💡 Sample Inputs
 
-Hi
+- Hi
 
-Hello
+- Hello
 
-How are you?
+- How are you?
 
-Bye
+- Bye
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
-Through this project, I learned:
+- Through this project, I learned:
 
-Basic AI chatbot logic
+- Basic AI chatbot logic
 
-Python dictionaries
+- Python dictionaries
 
-Conditional statements
+- Conditional statements
 
-User input handling
+- User input handling
 
-Building conversational programs
+- Building conversational programs
 
-🔮 Future Improvements
+#  🔮 Future Improvements
 
-Add GUI interface
+- Add GUI interface
 
-Add voice assistant support
+- Add voice assistant support
 
-Integrate machine learning
+- Integrate machine learning
 
-Improve conversational abilities
+- Improve conversational abilities
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 "Hansika"
 
-AI & ML Engineering Student
+- AI & ML Engineering Student
