@@ -1,85 +1,63 @@
-# Rule-Based AI Chatbot This is my first AI internship project developed using Python.
+# Iris Flower Classification Using AI
+This project is a beginner-level Machine Learning classification project developed using Python and Scikit-learn. The goal of this project is to train an AI model to classify Iris flower species based on their flower measurements.
 
-This project is a simple "Rule-Based AI Chatbot" developed using "Python" as part of my first AI internship project at "Decode Labs". The chatbot responds to predefined user inputs using a dictionary-based approach and demonstrates the basic working of conversational AI systems.
+# Project Overview
+In this project, the Iris flower dataset is loaded and analyzed using Python. The dataset contains different flower measurements such as sepal length, sepal width, petal length, and petal width. Using these features, the AI model predicts the type of Iris flower.
 
-# 📌 Features
+The project demonstrates the basic workflow of supervised machine learning including:
 
-👋 Greeting responses
+- Data loading
+- Data exploration
+- Train-test splitting
+- Model training
+- Prediction
+- Model evaluation
+# Note: If the notebook preview (in data_classification file) does not render on GitHub, please use the Raw option to view the notebook source or can view datasets document or refer to the Python (.py) version included in this repository.
+# Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+  # Dataset Information
+The project uses the built-in Iris dataset from Scikit-learn. Dataset includes:
+* 150 flower samples
+* 3 flower categories:
+    - Setosa
+    - Versicolor
+    - Virginica
+* 4 numerical features
+# Machine Learning Algorithm Used
+K-Nearest Neighbors (KNN) Classification Algorithm The KNN algorithm predicts the flower category based on similarities between nearby data points.
 
-💬 Dictionary-based chatbot system
+# Project Workflow
+# 1. Import Required Libraries
+Necessary Python libraries are imported for data handling and machine learning tasks.
 
-🧹 Input sanitization
+# 2. Load and Explore Dataset
+The Iris dataset is loaded and converted into a Pandas DataFrame for better understanding and visualization.
 
-🔁 Infinite conversation loop
+# 3. Split Dataset
+The dataset is divided into:
 
-❌ Exit command support
+Training Data (80%)
+Testing Data (20%)
+# 4. Train the Model
+The KNN classification model is trained using the training dataset.
 
-⚡ Fast text-based interaction
+# 5. Make Predictions
+The trained model predicts flower categories using testing data.
 
-# 🛠️ Technologies Used
-
-Python
-
-# 🚀 How It Works
-
-- User enters a message
-
-- Chatbot checks the predefined responses
-
-- Matching response is displayed
-
-- Conversation continues until user exits
-
-# 📂 Project Structure
-
-- rule-based-ai-chatbot/ │ ├── chatbot.py └── README.md
-
-# ▶️ How to Run
-
-- Install Python
-
-- Clone this repository
-
-- git clone https://github.com/Janusha-prog/rule-based-ai-chatbot.git
-
-- Run the Python file python chatbot.py
-
-# 💡 Sample Inputs
-
-- Hi
-
-- Hello
-
-- How are you?
-
-- Bye
-
-# 🎯 Learning Outcomes
-
-- Through this project, I learned:
-
-- Basic AI chatbot logic
-
-- Python dictionaries
-
-- Conditional statements
-
-- User input handling
-
-- Building conversational programs
-
-#  🔮 Future Improvements
-
-- Add GUI interface
-
-- Add voice assistant support
-
-- Integrate machine learning
-
-- Improve conversational abilities
-
-# 👩‍💻 Author
-
-"Hansika"
-
-- AI & ML Engineering Student
+# 6. Evaluate the Model
+Model performance is evaluated using:
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+# Output
+The project displays:
+- Dataset preview
+- Prediction results
+- Accuracy score
+- Confusion matrix
+- Classification report
+# Conclusion
+This project helped in understanding the basics of supervised machine learning, classification models, dataset handling, and model evaluation using Python.
