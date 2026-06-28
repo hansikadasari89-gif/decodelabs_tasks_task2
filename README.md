@@ -60,4 +60,8 @@ The project displays:
 - Confusion matrix
 - Classification report
 # Conclusion
-This project helped in understanding the basics of supervised machine learning, classification models, dataset handling, and model evaluation using Python.
+This project helped in understanding the basics of supervised machine learning, classification models, dataset handling, and model evaluation using Python. 
+# 👩‍💻 Author
+" Dasari Hansika Reddy"
+- AI & ML Engineering Student
+
